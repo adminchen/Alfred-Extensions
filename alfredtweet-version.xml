@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <update>
-	<version>1.2</version>
+	<version>1.3</version>
 	<url>https://raw.github.com/jdfwarrior/Alfred-Extensions/master/AlfredTweet.alfredextension</url>
-	<comments>Tweaked the reset command to kill previous running php instances to ensure that earlier attempts to authenticate have been cancelled.</comments>
+	<comments>Fixed an error when using Twitter lists</comments>
 </update>
 
